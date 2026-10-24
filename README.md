@@ -5,7 +5,6 @@
 ![Status](https://img.shields.io/badge/Type-Unsupervised%20Learning-brown)
 
 
-<img width="1286" height="644" alt="aui" src="https://github.com/user-attachments/assets/ed0ae1d5-bdcf-44a6-8e64-27c785ff934c" />
 
 
 
